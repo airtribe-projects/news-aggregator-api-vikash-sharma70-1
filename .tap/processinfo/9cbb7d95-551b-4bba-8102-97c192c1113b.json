@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-05T14:26:16.468Z",
+  "argv": [
+    "/Users/vikashsharma/.nvm/versions/node/v24.10.0/bin/node",
+    "/Users/vikashsharma/Documents/Airtribe/nodejs/Assignments/news_aggregator/news-aggregator-api-vikash-sharma70-1/node_modules/mongodb-memory-server-core/scripts/mongo_killer.js",
+    "58286",
+    "58294"
+  ],
+  "execArgv": [],
+  "NODE_OPTIONS": "\"--import=file:///Users/vikashsharma/Documents/Airtribe/nodejs/Assignments/news_aggregator/news-aggregator-api-vikash-sharma70-1/node_modules/@tapjs/processinfo/dist/esm/import.mjs\"",
+  "cwd": "/Users/vikashsharma/Documents/Airtribe/nodejs/Assignments/news_aggregator/news-aggregator-api-vikash-sharma70-1",
+  "pid": 58296,
+  "ppid": 58286,
+  "parent": "ffce3544-ed32-4d0f-bedf-4ea490d4a169",
+  "uuid": "9cbb7d95-551b-4bba-8102-97c192c1113b",
+  "files": [
+    "/Users/vikashsharma/Documents/Airtribe/nodejs/Assignments/news_aggregator/news-aggregator-api-vikash-sharma70-1/node_modules/mongodb-memory-server-core/scripts/mongo_killer.js"
+  ],
+  "sources": {},
+  "root": "ffce3544-ed32-4d0f-bedf-4ea490d4a169",
+  "code": 0,
+  "signal": null,
+  "runtime": 2156.163084
+}

@@ -1,0 +1,22 @@
+◇ injected env (8) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+TAP version 14
+[2026-05-05T14:26:17.357Z] POST /api/auth/register - 201 - 239ms
+# Subtest: Preferences
+[2026-05-05T14:26:17.609Z] POST /api/auth/register - 201 - 225ms
+[2026-05-05T14:26:17.616Z] GET /api/preferences - 200 - 6ms
+    # Subtest: Get preferences
+        ok 1 - should be equal
+        1..1
+    ok 1 - Get preferences # time=9.043ms
+    
+[2026-05-05T14:26:17.844Z] POST /api/auth/register - 201 - 223ms
+[2026-05-05T14:26:17.849Z] PUT /api/preferences - 200 - 3ms
+    # Subtest: Update preferences
+        ok 1 - should be equal
+        1..1
+    ok 2 - Update preferences # time=6.13ms
+    
+    1..2
+ok 1 - Preferences # time=492.698ms
+
+1..1
